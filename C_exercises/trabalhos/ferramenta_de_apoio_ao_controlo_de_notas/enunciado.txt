@@ -12,7 +12,8 @@ Tema: Ferramenta de apoio ao controlo de notas
 
  
 
-Construa um programa em C constituído por várias funções que servirão de apoio ao controlo de notas dos alunos. Propõe-se a criação de um conjunto de funções para realizar as seguintes tarefas:
+Construa um programa em C constituído por várias funções que servirão de apoio ao controlo de notas dos alunos. 
+Propõe-se a criação de um conjunto de funções para realizar as seguintes tarefas:
 
 a) Escrever uma função para verificar se a nota é válida (notas de 0.00 a 20.00).
 
@@ -22,7 +23,8 @@ b) Criar um array onde seja possível armazenar os seguintes dados:
 
 	b. Nota
 
-Escrever uma função que leia este array. O número máximo de alunos é 50. Este número pode ser alterado no código e não na execução do programa.
+	Escrever uma função que leia este array. O número máximo de alunos é 50. 
+	Este número pode ser alterado no código e não na execução do programa.
 
 c) Refazer a alínea a), agora com o array referido em b).
 
