@@ -9,6 +9,7 @@ Actualmente esses são os cadernos de exercicios:
 3. C_exercises/Lista2-T2
 4. C_exercises/Prof_Linhares_Exercicios_2016_1
 5. C_exercises/trabalhos
+6. C_exercises/fichas-de-exercicios
 
 neste momento estou a fazer o caderno de trabalhos na pasta C_exercises
 
