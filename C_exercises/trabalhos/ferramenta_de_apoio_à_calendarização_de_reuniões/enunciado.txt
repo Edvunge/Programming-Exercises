@@ -1,0 +1,32 @@
+
+Programação I
+
+Engenharia Informática – 1ºano
+
+Trabalho Prático B
+
+Tema: Ferramenta de apoio à calendarização de reuniões
+
+ 
+
+Construa um programa em C constituído por várias funções que servirão de apoio à calendarização de reuniões. Propõe-se a criação de um conjunto de funções para realizar as seguintes tarefas:
+
+a) Escrever uma função que leia o dia, a hora e o assunto da reunião. Este programa, só marca reuniões referente a um mês e ano específico.
+
+b) Escrever uma função para verificar se o dia e hora da reunião são válidas. Considere o mês em questão, um mês de 30 dias. A hora é um número entre as 7.00 e as 22.00 .
+
+c) Refazer a alínea a) de forma a armazenar toda a informação das reuniões num array. Utilizar a alínea b) para validar a hora e data da reunião. É condição, que num dia exista um máximo de 2 reuniões.
+
+d) Refazer a alínea a), agora com o array referido em c).
+
+e) Escrever uma função que verifique se ao introduzir uma data/hora de uma reunião, essa data/hora já está ocupada. Caso esteja ocupada, avise o utilizador e peça para introduzir nova data/hora..
+
+f) Escrever uma função que mostre todas as datas/horas ocupadas.
+
+	a. Preferencialmente, as datas ao serem mostradas, deveriam estar ordenadas por ordem crescente.
+
+g) Escrever um menu com opções relativas às alíneas c) e f).
+
+h) Construir a função main() que deve invocar a função da alínea anterior; verificar qual a opção do utilizador e invocar a função correspondente.
+
+

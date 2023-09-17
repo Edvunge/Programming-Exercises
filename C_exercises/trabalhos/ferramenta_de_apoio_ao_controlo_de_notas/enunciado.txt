@@ -1,0 +1,38 @@
+
+
+Programação I
+
+Engenharia Informática – 1ºano
+
+
+
+Trabalho Prático A
+
+Tema: Ferramenta de apoio ao controlo de notas
+
+ 
+
+Construa um programa em C constituído por várias funções que servirão de apoio ao controlo de notas dos alunos. Propõe-se a criação de um conjunto de funções para realizar as seguintes tarefas:
+
+a) Escrever uma função para verificar se a nota é válida (notas de 0.00 a 20.00).
+
+b) Criar um array onde seja possível armazenar os seguintes dados:
+
+	a. Nr. do Aluno
+
+	b. Nota
+
+Escrever uma função que leia este array. O número máximo de alunos é 50. Este número pode ser alterado no código e não na execução do programa.
+
+c) Refazer a alínea a), agora com o array referido em b).
+
+d) Escrever uma função calcule a média, o máximo, o mínimo e a diferença entre o máximo e o mínimo das notas dos alunos da cadeira de Programação I do curso de Engenharia Informática. A estrutura base é a da alínea anterior. Dizer qual o aluno com nota máxima e mínima.
+
+e) Refazer a alínea b) de forma que valide as notas, utilizando a alínea c).
+
+f) Escrever um menu com opções relativas às alíneas b) e d).
+
+g)Construir a função main() que deve invocar a função da alínea anterior; verificar qual a opção do utilizador e invocar a função correspondente.
+
+
+
